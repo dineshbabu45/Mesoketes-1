@@ -4,7 +4,7 @@ w=[]
 n=[]
 e=[]
 k=0
-l=[]# To store the directions.
+l=[]# To store the direct
 l1=[]# To strore the attacking strength.
 for i in range(0,len(a)): # The loop is to extract the directions along with attacking strenth.
     if a[1]=='1$':#Checks whether the input starts with day 1.
